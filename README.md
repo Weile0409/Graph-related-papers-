@@ -22,6 +22,8 @@ and Anomaly detection
   - Construct dynamic graph embedding via autoencoder approach
   - Only avaliable in **growing graph**, ie, Node increasing over time
 
+## Anomaly detection
+
 ## Other
 #### [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)**[ACL 2020]**
 - **Research unit** :  National Cheng Kung University
