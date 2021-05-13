@@ -58,6 +58,10 @@ and Anomaly detection
 - **Dataset** : Synthetic, Amazon, DBLP
 - **Task** : Detecting anomalies nodes in dynamic attributed graphs
 
+#### [TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial](https://arxiv.org/pdf/1906.07407.pdf)**[VLDB 2019]**
+- **Research unit** : Ant Financial Services Group
+- **Task** : Detecting anomalies transactions
+
 ## Other
 #### [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)**[ACL 2020]**
 - **Research unit** :  National Cheng Kung University
