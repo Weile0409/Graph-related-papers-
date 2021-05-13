@@ -53,8 +53,14 @@ and Anomaly detection
 
 
 ## Anomaly detection
+
+#### [Few-shot Network Anomaly Detection via Cross-network Meta-learning](https://arxiv.org/pdf/2102.11165v1.pdf) **[WWW 2021]**
+- **Research unit** : Arizona State University, University of Illinois at Urbana-Champaign,
+- **Dataset** : Yelp, PubMed, Reddit
+- **Task** : Detecting anomalies nodes 
+
 #### [Anomaly detection in dynamic attributed networks](https://www.researchgate.net/publication/342399167_Anomaly_detection_in_dynamic_attributed_network) **[Neural Computing and Applications 2021]**
-- **Research unit** :South China Normal University, Cloud and Smart Industries Group(Tencent), Ant Financial Services Group, University of Chinese Academy of Sciences, Rutgers University
+- **Research unit** : South China Normal University, Cloud and Smart Industries Group(Tencent), Ant Financial Services Group, University of Chinese Academy of Sciences, Rutgers University
 - **Dataset** : Synthetic, Amazon, DBLP
 - **Task** : Detecting anomalies nodes in dynamic attributed graphs
 
