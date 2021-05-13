@@ -46,6 +46,12 @@ and Anomaly detection
 - **Task** :   Link prediction experiments on two graph types: communication networks and bipartite rating networks
 - [Code](https://github.com/aravindsankar28/DySAT)
 
+#### [Continuous-Time Dynamic Network Embeddings](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) **[WWW 2018]**
+- **Research unit** :  Worcester Polytechnic Institute, Adobe Research, Intel Labs
+- **Dataset** : ia-contact, ia-hypertext09, ia-enron-employees, ia-radoslaw-email, ia-email-eu, fb-forum, soc-bitcoinA, soc-wiki-elec 
+- **Task** :   Temporal Link Prediction
+
+
 ## Anomaly detection
 
 ## Other
