@@ -8,7 +8,7 @@ Record some graph related papers that I have read !
 
 
 ## Recommender System
-#### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf)
+#### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf)**[SIGIR 2020]**
 - **Research unit** : University of Illinois at Chicago, School of Artificial Intelligence, University of Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences
 - **Dataset** : Reddit, Wikipedia, LastFM
 - **Task** :  Link prediction
@@ -16,6 +16,14 @@ Record some graph related papers that I have read !
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
 - 
 ## Dynamic graph
+
+#### [INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://arxiv.org/pdf/2002.07962.pdf) **[ICLR 2020]**
+- **Research unit** : Walmart Labs
+- **Dataset** : Reddit, Wikipedia, Industrial
+- **Task** :  Node classification and link prediction task with transductive and inductive tasks 
+- **Note** : 
+- [Code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)
+
 #### [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf) **[AAAI 2020]**
 - **Research unit** : MIT-IBM Watson AI Lab, IBM Research, MIT CSAIL
 - **Dataset** : SBM, BC-OTC, BC-Alpha, UCI, AS, Reddit, Elliptic
