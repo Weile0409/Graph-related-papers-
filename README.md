@@ -14,7 +14,7 @@ Record some graph related papers that I have read !
 - **Task** :  Link prediction
 - **Note** : 
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
-- 
+
 ## Dynamic graph
 
 #### [INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://arxiv.org/pdf/2002.07962.pdf) **[ICLR 2020]**
