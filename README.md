@@ -4,7 +4,7 @@ Record some graph related papers that I have read !
 ## Survey papers
 #### [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://www.researchgate.net/publication/340691343_Fraud_detection_A_systematic_literature_review_of_graph-based_anomaly_detection_approaches)**[Decision Support Systems 2020]**
 #### [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)**[IEEE 2020]**
-#### [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260)
+#### [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260) **[2020]**
 
 
 ## Recommender System
