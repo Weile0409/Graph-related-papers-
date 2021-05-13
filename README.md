@@ -40,7 +40,7 @@ and Anomaly detection
   - Construct dynamic graph embedding via autoencoder approach
   - Only avaliable in **growing graph**, ie, Node increasing over time
 
-#### [DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks](http://yhwu.me/publications/dysat_wsdm20.pdf)**[WSDM 2020]**
+#### [DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks](http://yhwu.me/publications/dysat_wsdm20.pdf) **[WSDM 2020]**
 - **Research unit** :  University of Illinois at Urbana-Champaign, Visa Research
 - **Dataset** : Enron, UCI, Yelp, ML-10M
 - **Task** :   Link prediction experiments on two graph types: communication networks and bipartite rating networks
@@ -53,17 +53,17 @@ and Anomaly detection
 
 
 ## Anomaly detection
-#### [Anomaly detection in dynamic attributed networks](https://www.researchgate.net/publication/342399167_Anomaly_detection_in_dynamic_attributed_network)**[Neural Computing and Applications 2021]**
+#### [Anomaly detection in dynamic attributed networks](https://www.researchgate.net/publication/342399167_Anomaly_detection_in_dynamic_attributed_network) **[Neural Computing and Applications 2021]**
 - **Research unit** :South China Normal University, Cloud and Smart Industries Group(Tencent), Ant Financial Services Group, University of Chinese Academy of Sciences, Rutgers University
 - **Dataset** : Synthetic, Amazon, DBLP
 - **Task** : Detecting anomalies nodes in dynamic attributed graphs
 
-#### [TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial](https://arxiv.org/pdf/1906.07407.pdf)**[VLDB 2019]**
+#### [TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial](https://arxiv.org/pdf/1906.07407.pdf) **[VLDB 2019]**
 - **Research unit** : Ant Financial Services Group
 - **Task** : Detecting anomalies transactions
 
 ## Other
-#### [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)**[ACL 2020]**
+#### [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://www.aclweb.org/anthology/2020.acl-main.48.pdf) **[ACL 2020]**
 - **Research unit** :  National Cheng Kung University
 - **Dataset** : Twitter15, Twitter16
 - **Task** :  Fake news prediction
