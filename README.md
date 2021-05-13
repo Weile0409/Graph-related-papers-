@@ -2,9 +2,9 @@
 Record some graph related papers that I have read ! 
 
 ## Survey papers
-#### [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://www.researchgate.net/publication/340691343_Fraud_detection_A_systematic_literature_review_of_graph-based_anomaly_detection_approaches)**[Decision Support Systems 2020]**
-#### [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)**[IEEE 2020]**
-#### [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260) **[2020]**
+- [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://www.researchgate.net/publication/340691343_Fraud_detection_A_systematic_literature_review_of_graph-based_anomaly_detection_approaches)**[Decision Support Systems 2020]**
+- [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)**[IEEE 2020]**
+- [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260) **[2020]**
 
 
 ## Recommender System
@@ -39,6 +39,12 @@ and Anomaly detection
 - **Note** : 
   - Construct dynamic graph embedding via autoencoder approach
   - Only avaliable in **growing graph**, ie, Node increasing over time
+
+#### [DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks](http://yhwu.me/publications/dysat_wsdm20.pdf)**[WSDM 2020]**
+- **Research unit** :  University of Illinois at Urbana-Champaign, Visa Research
+- **Dataset** : Enron, UCI, Yelp, ML-10M
+- **Task** :   Link prediction experiments on two graph types: communication networks and bipartite rating networks
+- [Code](https://github.com/aravindsankar28/DySAT)
 
 ## Anomaly detection
 
