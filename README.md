@@ -53,6 +53,10 @@ and Anomaly detection
 
 
 ## Anomaly detection
+#### [Anomaly detection in dynamic attributed networks](https://www.researchgate.net/publication/342399167_Anomaly_detection_in_dynamic_attributed_network)**[Neural Computing and Applications 2021]**
+- **Research unit** :South China Normal University, Cloud and Smart Industries Group(Tencent), Ant Financial Services Group, University of Chinese Academy of Sciences, Rutgers University
+- **Dataset** : Synthetic, Amazon, DBLP
+- **Task** : Detecting anomalies nodes in dynamic attributed graphs
 
 ## Other
 #### [GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media](https://www.aclweb.org/anthology/2020.acl-main.48.pdf)**[ACL 2020]**
