@@ -95,6 +95,11 @@ and Anomaly detection
 - **Dataset** : UCI, Digg, Email, Bitcoin-Alpha, Bitcoin-otc, Topology
 - **Task** : Anomaly link prediction
 
+#### [A Semi-supervised Graph Attentive Network for Financial Fraud Detection](https://arxiv.org/pdf/2003.01171.pdf) **[ICDM 2019]**
+- **Research unit** : Ant Financial Services Group, Tsinghua University,China
+- **Dataset** : ALIPAY
+- **Task** : User Default Prediction,  User Attribute Prediction
+
 #### [Anomaly Detection with Graph Convolutional Networks for Insider Threat and Fraud Detection](http://169.237.7.61/pubs/PID6150935_GCN.pdf) **[IEEE MILCOM 2019]**
 - **Research unit** :  Chinese Academy of Sciences, University of California,  University of Texas at San Antonio,San Antonio
 - **Dataset** :  Data set provided by CMU CERT consists of 1000 users in a simulated network and their activities from 01/02/2010 to 05/16/2011
