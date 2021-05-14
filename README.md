@@ -12,24 +12,40 @@ Record some graph related papers that I have read !
 - **Research unit** : University of Illinois at Chicago, School of Artificial Intelligence, University of Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences
 - **Dataset** : Reddit, Wikipedia, LastFM
 - **Task** :  Link prediction
-- **Note** : 
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
 
-## Dynamic graph
+## Static graph
+#### [GRAPH ATTENTION NETWORKS](https://research.fb.com/wp-content/uploads/2018/03/graph-attention-networks.pdf) **[ICLR 2018]**
+- **Research unit** : University of Cambridge, Centre de Visio per Computador, Facebook AI Research, Montreal Institute for Learning Algorithms
+- **Dataset** : Cora, Citeseer, Pubmed, PPI(Inductive)
+- **Task** : Node classification
+- [Code](https://github.com/PetarV-/GAT)
 
+#### [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf) **[KDD 14]**
+- **Research unit** : Stony Brook University
+- **Dataset** : BlogCatalog, Flickr, YouTube
+- **Task** : Node classification
+- [Code](https://github.com/phanein/deepwalk)
+
+
+## Dynamic graph
 #### [INDUCTIVE REPRESENTATION LEARNING ON TEMPORAL GRAPHS](https://arxiv.org/pdf/2002.07962.pdf) **[ICLR 2020]**
 - **Research unit** : Walmart Labs
 - **Dataset** : Reddit, Wikipedia, Industrial
 - **Task** :  Node classification and link prediction task with transductive and inductive tasks 
-- **Note** : 
 - [Code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)
 
 #### [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf) **[AAAI 2020]**
 - **Research unit** : MIT-IBM Watson AI Lab, IBM Research, MIT CSAIL
 - **Dataset** : SBM, BC-OTC, BC-Alpha, UCI, AS, Reddit, Elliptic
-- **Task** :  Link prediction, Edge classification, Node classification
-- **Note** : 
+- **Task** :  Link prediction, Edge classification, Node classification 
 - [Code](https://github.com/IBM/EvolveGCN)
+
+#### [dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning](https://arxiv.org/pdf/1809.02657.pdf) **[Knowledge-Based Systems 2019]**
+- **Research unit** :  University of Southern California, University of California-Irvine, Siemens Corporate Technology
+- **Dataset** : SBM(Stochastic Block Model), Hep-th, AS
+- **Task** : Link prediction
+- [Code](https://github.com/palash1992/DynamicGEM)
 
 #### [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/pdf/1805.11273.pdf) **[CoRR 2018]**
 - **Research unit** :  University of Southern California
