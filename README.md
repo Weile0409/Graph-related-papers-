@@ -21,7 +21,13 @@ Record some graph related papers that I have read !
 - **Task** : Node classification
 - [Code](https://github.com/PetarV-/GAT)
 
-#### [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf) **[KDD 14]**
+#### [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf) **[ICLR 2017]
+- **Research unit** : University of Amsterdam, Canadian Institute for Advanced Research (CIFAR)
+- **Dataset** : Cora, Citeseer, Pubmed, NELL
+- **Task** : Node classification
+- [Code](https://github.com/tkipf/gcn)
+
+#### [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf) **[KDD 2014]**
 - **Research unit** : Stony Brook University
 - **Dataset** : BlogCatalog, Flickr, YouTube
 - **Task** : Node classification
@@ -79,6 +85,20 @@ and Anomaly detection
 - **Research unit** : South China Normal University, Cloud and Smart Industries Group(Tencent), Ant Financial Services Group, University of Chinese Academy of Sciences, Rutgers University
 - **Dataset** : Synthetic, Amazon, DBLP
 - **Task** : Detecting anomalies nodes in dynamic attributed graphs
+
+#### [ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks](https://arxiv.org/pdf/2009.14738.pdf) **[CoRR 2020]**
+- **Dataset** : Amazon, Enron, BlogCatalog, Flickr, ACM
+- **Task** : Detecting anomalies nodes 
+
+#### [Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs](https://arxiv.org/pdf/2005.07427.pdf) **[Preprint 2020]**
+- **Research unit** :  Washington State University, NEC Laboratories America, Rice University
+- **Dataset** : UCI, Digg, Email, Bitcoin-Alpha, Bitcoin-otc, Topology
+- **Task** : Anomaly link prediction
+
+#### [Anomaly Detection with Graph Convolutional Networks for Insider Threat and Fraud Detection](http://169.237.7.61/pubs/PID6150935_GCN.pdf) **[IEEE MILCOM 2019]**
+- **Research unit** :  Chinese Academy of Sciences, University of California,  University of Texas at San Antonio,San Antonio
+- **Dataset** :  Data set provided by CMU CERT consists of 1000 users in a simulated network and their activities from 01/02/2010 to 05/16/2011
+- **Task** : Detecting anomalies nodes 
 
 #### [TitAnt: Online Real-time Transaction Fraud Detection in Ant Financial](https://arxiv.org/pdf/1906.07407.pdf) **[VLDB 2019]**
 - **Research unit** : Ant Financial Services Group
