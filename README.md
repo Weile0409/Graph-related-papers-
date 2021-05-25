@@ -8,10 +8,17 @@ Record some graph related papers that I have read !
 
 
 ## Recommender System
+#### [LightGCN](https://arxiv.org/pdf/2002.02126.pdf) **[SIGIR 2020]**
+- **Authors**: Xiangnan He, Kuan Deng, Xiang Wang, Yan Li, Yongdong Zhang, Meng Wang
+- **Dataset**: Gowalla, Yelp2018 31, Amazon-Book 
+- **Note**: Two essential components — light graph convolution and layer combination
+- **Task**: Recommendation
+- [Code](https://github.com/gusye1234/LightGCN-PyTorch)
+
 #### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf) **[SIGIR 2020]**
 - **Research unit** : University of Illinois at Chicago, School of Artificial Intelligence, University of Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences
 - **Dataset** : Reddit, Wikipedia, LastFM
-- **Task** :  Link prediction
+- **Task** : Recommendation
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
 
 ## Static graph
