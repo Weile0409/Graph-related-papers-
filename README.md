@@ -21,6 +21,13 @@ Record some graph related papers that I have read !
 - **Task** : Recommendation
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
 
+#### [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) **[SIGIR 2019]**
+- **Authors** : Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua
+- **Dataset** : Gowalla, Yelp2018, Amazon-Book
+- **Task** : Recommendation
+- [Code](https://github.com/huangtinglin/NGCF-PyTorch)
+- User-Item embedding)
+
 ## Static graph
 #### [GRAPH ATTENTION NETWORKS](https://research.fb.com/wp-content/uploads/2018/03/graph-attention-networks.pdf) **[ICLR 2018]**
 - **Research unit** : University of Cambridge, Centre de Visio per Computador, Facebook AI Research, Montreal Institute for Learning Algorithms
