@@ -21,12 +21,17 @@ Record some graph related papers that I have read !
 - **Task** : Recommendation
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
 
+#### [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://arxiv.org/pdf/1908.01207.pdf) **[KDD 2019]**
+- **Authors** : Srijan Kumar, Xikun Zhang, Jure Leskovec
+- **Dataset** : Reddit, Wikipedia, LastFM, MOOC
+- **Task** : Recommendation (predicting future interactions and state change prediction)
+- [Code](https://github.com/srijankr/jodie)
+
 #### [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) **[SIGIR 2019]**
 - **Authors** : Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua
 - **Dataset** : Gowalla, Yelp2018, Amazon-Book
 - **Task** : Recommendation
 - [Code](https://github.com/huangtinglin/NGCF-PyTorch)
-- User-Item embedding)
 
 ## Static graph
 #### [GRAPH ATTENTION NETWORKS](https://research.fb.com/wp-content/uploads/2018/03/graph-attention-networks.pdf) **[ICLR 2018]**
