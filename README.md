@@ -1,5 +1,5 @@
-# Graph-related-papers-
-Record some graph related papers that I have read ! 
+Papers read
+Record some papers that I have read ! 
 
 ## Survey papers
 - [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://www.researchgate.net/publication/340691343_Fraud_detection_A_systematic_literature_review_of_graph-based_anomaly_detection_approaches) **[Decision Support Systems 2020]**
@@ -32,6 +32,12 @@ Record some graph related papers that I have read !
 - **Dataset** : Gowalla, Yelp2018, Amazon-Book
 - **Task** : Recommendation
 - [Code](https://github.com/huangtinglin/NGCF-PyTorch)
+
+#### [Neural Collaborative Filtering](https://dl.acm.org/doi/10.1145/3038912.3052569) **[WWW 2017]**
+- **Authors** : Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua
+- **Dataset** : MovieLens, Pinterest
+- **Task** : Recommendation (Implicit)
+- [Code](https://github.com/hexiangnan/neural_collaborative_filtering)
 
 ## Static graph
 #### [GRAPH ATTENTION NETWORKS](https://research.fb.com/wp-content/uploads/2018/03/graph-attention-networks.pdf) **[ICLR 2018]**
