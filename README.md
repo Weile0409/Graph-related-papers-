@@ -23,7 +23,7 @@ Record some papers that I have read !
 - [Code](https://github.com/gusye1234/LightGCN-PyTorch)
 
 #### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf) **[SIGIR 2020]**
-- **Research unit** : University of Illinois at Chicago, School of Artificial Intelligence, University of Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences
+- **Authors**: Xiaohan Li, Mengqi Zhang∗, Shu Wu‡, Zheng Liu, Liang Wang, Philip S.Yu
 - **Dataset** : Reddit, Wikipedia, LastFM
 - **Task** : Recommendation
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
