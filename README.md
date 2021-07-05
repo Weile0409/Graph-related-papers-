@@ -8,6 +8,13 @@ Record some papers that I have read !
 
 
 ## Recommender System
+#### [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142) **[SIGIR 2020]**
+- **Authors**: Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu
+- **Dataset**: Diginetica, Tmall, Nowplaying
+- **Note**: Global graph and session graph
+- **Task**: Session-based Recommendation
+- [Code](https://github.com/johnny12150/GCE-GNN)
+
 #### [LightGCN](https://arxiv.org/pdf/2002.02126.pdf) **[SIGIR 2020]**
 - **Authors**: Xiangnan He, Kuan Deng, Xiang Wang, Yan Li, Yongdong Zhang, Meng Wang
 - **Dataset**: Gowalla, Yelp2018 31, Amazon-Book 
