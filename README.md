@@ -54,7 +54,7 @@ Record some papers that I have read !
 - [Code](https://github.com/PetarV-/GAT)
 
 #### [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907.pdf) **[ICLR 2017]**
-- **Research unit** : University of Amsterdam, Canadian Institute for Advanced Research (CIFAR)
+- **Authors** : Thomas N. Kipf, Max Welling
 - **Dataset** : Cora, Citeseer, Pubmed, NELL
 - **Task** : Node classification
 - [Code](https://github.com/tkipf/gcn)
