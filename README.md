@@ -34,6 +34,13 @@ Record some papers that I have read !
 - **Task** : Recommendation (predicting future interactions and state change prediction)
 - [Code](https://github.com/srijankr/jodie)
 
+#### [Session-based Recommendation with Graph Neural Networks](https://arxiv.org/pdf/1905.08108.pdf) **[AAAI 2019]**
+- **Authors** : Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan
+- **Dataset** : Yoochoose 1/64, Yoochoose 1/4, Diginetica
+- **Task** : Session-based Recommendation
+- [Code](https://github.com/CRIPAC-DIG/SR-GNN)
+
+
 #### [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) **[SIGIR 2019]**
 - **Authors** : Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua
 - **Dataset** : Gowalla, Yelp2018, Amazon-Book
@@ -104,6 +111,20 @@ and Anomaly detection
 - **Research unit** :  Worcester Polytechnic Institute, Adobe Research, Intel Labs
 - **Dataset** : ia-contact, ia-hypertext09, ia-enron-employees, ia-radoslaw-email, ia-email-eu, fb-forum, soc-bitcoinA, soc-wiki-elec 
 - **Task** :   Temporal Link Prediction
+
+## Emotion Recognition
+#### [Compact Graph Architecture for Speech Emotion Recognition](https://arxiv.org/abs/2105.12907) **[ ICASSP 2021]**
+- **Authors** : A. Shirian, T. Guha
+- **Dataset** : IEMOCAP, MELK, DailyDialog, Emory NLP
+- **Task** : Classification
+- [Code](https://github.com/AmirSh15/Compact_SER)
+
+
+#### [Directed Acyclic Graph Network for Conversational Emotion Recognition](https://arxiv.org/abs/2105.12907) **[ACL-IJCNLP 2021]**
+- **Authors** : Weizhou Shen, Siyue Wu, Yunyi Yang, Xiaojun Quan
+- **Dataset** : IEMOCAP,  MSP-IMPRO
+- **Task** : (Graph) classification
+- [Code](https://github.com/shenwzh3/DAG-ERC)
 
 
 ## Anomaly detection
