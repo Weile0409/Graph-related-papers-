@@ -41,7 +41,7 @@ Record some papers that I have read !
 - **Task** : Recommendation (predicting future interactions and state change prediction)
 - [Code](https://github.com/srijankr/jodie)
 
-#### [Session-based Recommendation with Graph Neural Networks](https://arxiv.org/pdf/1905.08108.pdf) **[AAAI 2019]**
+#### [Session-based Recommendation with Graph Neural Networks](https://arxiv.org/abs/1811.00855) **[AAAI 2019]**
 - **Authors** : Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan
 - **Dataset** : Yoochoose 1/64, Yoochoose 1/4, Diginetica
 - **Task** : Session-based Recommendation
