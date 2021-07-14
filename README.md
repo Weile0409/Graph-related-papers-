@@ -120,7 +120,7 @@ and Anomaly detection
 - **Task** :   Temporal Link Prediction
 
 ## Emotion Recognition
-#### [Compact Graph Architecture for Speech Emotion Recognition](https://arxiv.org/abs/2105.12907) **[ ICASSP 2021]**
+#### [Compact Graph Architecture for Speech Emotion Recognition](https://arxiv.org/pdf/2008.02063.pdf) **[ICASSP 2021]**
 - **Authors** : A. Shirian, T. Guha
 - **Dataset** : IEMOCAP, MELK, DailyDialog, Emory NLP
 - **Task** : Classification
