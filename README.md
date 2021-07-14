@@ -8,6 +8,13 @@ Record some papers that I have read !
 
 
 ## Recommender System
+#### [Denoising Implicit Feedback for Recommendation](https://arxiv.org/abs/2006.04153) **[SIGIR 2020]**
+- **Authors**: Wenjie Wang, Fuli Feng, Xiangnan He, Liqiang Nie, Tat-Seng Chua
+- **Dataset**: Adressa, Amazon-book, Yelp
+- **Note**: New training strategy (Truncated Loss and Reweighted Loss)
+- **Task**: Recommendation (Implicit)
+- [Code](https://github.com/WenjieWWJ/DenoisingRec)
+
 #### [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142) **[SIGIR 2020]**
 - **Authors**: Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu
 - **Dataset**: Diginetica, Tmall, Nowplaying
@@ -19,7 +26,7 @@ Record some papers that I have read !
 - **Authors**: Xiangnan He, Kuan Deng, Xiang Wang, Yan Li, Yongdong Zhang, Meng Wang
 - **Dataset**: Gowalla, Yelp2018 31, Amazon-Book 
 - **Note**: Two essential components — light graph convolution and layer combination
-- **Task**: Recommendation
+- **Task**: Recommendation (Implicit)
 - [Code](https://github.com/gusye1234/LightGCN-PyTorch)
 
 #### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf) **[SIGIR 2020]**
@@ -44,7 +51,7 @@ Record some papers that I have read !
 #### [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) **[SIGIR 2019]**
 - **Authors** : Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua
 - **Dataset** : Gowalla, Yelp2018, Amazon-Book
-- **Task** : Recommendation
+- **Task** : Recommendation (Implicit)
 - [Code](https://github.com/huangtinglin/NGCF-PyTorch)
 
 #### [Neural Collaborative Filtering](https://dl.acm.org/doi/10.1145/3038912.3052569) **[WWW 2017]**
