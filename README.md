@@ -8,7 +8,7 @@ Record some papers that I have read !
 
 
 ## Recommender System
-#### [Denoising Implicit Feedback for Recommendation](https://arxiv.org/abs/2006.04153) **[SIGIR 2020]**
+#### [Denoising Implicit Feedback for Recommendation](https://arxiv.org/abs/2006.04153) **[WDSM 2021]**
 - **Authors**: Wenjie Wang, Fuli Feng, Xiangnan He, Liqiang Nie, Tat-Seng Chua
 - **Dataset**: Adressa, Amazon-book, Yelp
 - **Note**: New training strategy (Truncated Loss and Reweighted Loss)
