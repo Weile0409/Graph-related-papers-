@@ -59,6 +59,7 @@ Record some papers that I have read !
 - **Dataset** : MovieLens, Pinterest
 - **Task** : Recommendation (Implicit)
 - [Code](https://github.com/hexiangnan/neural_collaborative_filtering)
+- [Pytorch Code](https://github.com/guoyang9/NCF)
 
 ## Static graph
 #### [GRAPH ATTENTION NETWORKS](https://research.fb.com/wp-content/uploads/2018/03/graph-attention-networks.pdf) **[ICLR 2018]**
