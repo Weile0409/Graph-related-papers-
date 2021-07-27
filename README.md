@@ -2,10 +2,10 @@ Papers read<br>
 Record some papers that I have read ! 
 
 ## Survey papers
-- [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://www.researchgate.net/publication/340691343_Fraud_detection_A_systematic_literature_review_of_graph-based_anomaly_detection_approaches) **[Decision Support Systems 2020]**
+- [Bias and Debias in Recommender System: A Survey and Future Directions](https://arxiv.org/abs/2010.03240v1) **[TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING 2021]**
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) **[IEEE 2020]**
 - [Graph Neural Networks in Recommender Systems: A Survey](https://arxiv.org/abs/2011.02260) **[2020]**
-
+- [Fraud detection: A systematic literature review of graph-based anomaly detection approaches](https://www.researchgate.net/publication/340691343_Fraud_detection_A_systematic_literature_review_of_graph-based_anomaly_detection_approaches) **[Decision Support Systems 2020]**
 
 ## Recommender System
 #### [Denoising Implicit Feedback for Recommendation](https://arxiv.org/abs/2006.04153) **[WSDM 2021]**
@@ -14,6 +14,13 @@ Record some papers that I have read !
 - **Note**: New training strategy (Truncated Loss and Reweighted Loss)
 - **Task**: Recommendation (Implicit)
 - [Code](https://github.com/WenjieWWJ/DenoisingRec)
+
+#### [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/pdf/2105.06067v1.pdf) **[SIGIR 2021]**
+- **Authors**: Yang Zhang, Fuli Feng, Xiangnan He, Tianxin Wei, Chonggang Song, Guohui Ling, Yongdong Zhang
+- **Dataset**: Kwai, Douban, Tencent
+- **Note**: Leverage popularity bias to improve the recommendation accuracy (propose a new training and inference paradigm for recommendation)
+- **Task**: Recommendation (Implicit)
+- [Code](https://github.com/zyang1580/PDA)
 
 #### [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf) **[SIGIR 2021]**
 - **Authors**: Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie
@@ -43,11 +50,23 @@ Chih-Hen Lee, Jun-En Ding, Chih-Ming Chen, Jing-Kai Lou, Ming-Feng Tsai, Chuan-J
 - **Task**: Recommendation (Implicit)
 - [Code](https://github.com/gusye1234/LightGCN-PyTorch)
 
+#### [Disentangled Graph Collaborative Filtering](https://arxiv.org/abs/2007.01764) **[SIGIR 2020]**
+- **Authors**: Xiang Wang, Hongye Jin, An Zhang, Xiangnan He, Tong Xu, Tat-Seng Chua
+- **Dataset** : Gowalla, Yelp2018, Amazon-Book
+- **Task** : Recommendation (Implicit) 
+- [Code](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
+
 #### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf) **[SIGIR 2020]**
 - **Authors**: Xiaohan Li, Mengqi Zhang∗, Shu Wu‡, Zheng Liu, Liang Wang, Philip S.Yu
 - **Dataset** : Reddit, Wikipedia, LastFM
 - **Task** : Recommendation 
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
+
+#### [Knowledge Graph Attention Network](https://arxiv.org/abs/1905.07854) **[KDD 2019]**
+- **Authors**: 	Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua
+- **Dataset** : Amazon-Book, Last-FM, Yelp2018
+- **Task** : Recommendation via Knowledge graph
+- [Code](https://github.com/xiangwang1223/knowledge_graph_attention_network)
 
 #### [Negative-Aware Collaborative Filtering](https://dblp.org/rec/conf/recsys/LinCYTW19.html) **[RecSys 2019]**
 - **Authors**: 	Sheng-Chieh Lin, Yu-Neng Chuang, Sheng-Fang Yang, Ming-Feng Tsai, Chuan-Ju Wang
@@ -71,7 +90,6 @@ Chih-Hen Lee, Jun-En Ding, Chih-Ming Chen, Jing-Kai Lou, Ming-Feng Tsai, Chuan-J
 - **Dataset** : Yoochoose 1/64, Yoochoose 1/4, Diginetica
 - **Task** : Session-based Recommendation
 - [Code](https://github.com/CRIPAC-DIG/SR-GNN)
-
 
 #### [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf) **[SIGIR 2019]**
 - **Authors** : Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng, Tat-Seng Chua
