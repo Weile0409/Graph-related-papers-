@@ -15,6 +15,20 @@ Record some papers that I have read !
 - **Task**: Recommendation (Implicit)
 - [Code](https://github.com/WenjieWWJ/DenoisingRec)
 
+#### [Self-supervised Graph Learning for Recommendation](https://arxiv.org/pdf/2010.10783.pdf) **[SIGIR 2021]**
+- **Authors**: Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie
+- **Dataset**: Yelp2018, Amazon-book, Alibaba-iFashion
+- **Note**: Add self-supervised mechanism before GNN-based model
+- **Task**: Recommendation (Implicit)
+- [Code](https://github.com/wujcan/SGL)
+- 
+#### [LSTPR: Graph-based Matrix Factorization with Long Short-term Preference Ranking](https://dl.acm.org/doi/abs/10.1145/3404835.3463087) **[SIGIR 2021]**
+- **Authors**:  
+Chih-Hen Lee, Jun-En Ding, Chih-Ming Chen, Jing-Kai Lou, Ming-Feng Tsai, Chuan-Ju Wang
+- **Dataset**: Amazon-Book, Amazon-Beauty, JP-VOD
+- **Task**: Recommendation (Implicit)
+- [Code](https://github.com/cnclabs/codes.lstp.rec)
+
 #### [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142) **[SIGIR 2020]**
 - **Authors**: Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, Minghui Qiu
 - **Dataset**: Diginetica, Tmall, Nowplaying
@@ -32,13 +46,24 @@ Record some papers that I have read !
 #### [Dynamic Graph Collaborative Filtering](https://arxiv.org/pdf/2101.02844.pdf) **[SIGIR 2020]**
 - **Authors**: Xiaohan Li, Mengqi Zhang∗, Shu Wu‡, Zheng Liu, Liang Wang, Philip S.Yu
 - **Dataset** : Reddit, Wikipedia, LastFM
-- **Task** : Recommendation
+- **Task** : Recommendation 
 - [Code](https://github.com/CRIPAC-DIG/DGCF)
+
+#### [Negative-Aware Collaborative Filtering](https://dblp.org/rec/conf/recsys/LinCYTW19.html) **[RecSys 2019]**
+- **Authors**: 	Sheng-Chieh Lin, Yu-Neng Chuang, Sheng-Fang Yang, Ming-Feng Tsai, Chuan-Ju Wang
+- **Dataset** : Movielens, CiteULike
+- **Task** : Recommendation (Implicit)
+
+#### [Skewness Ranking Optimization for Personalized Recommendation](https://arxiv.org/abs/2005.12971) **[UAI 2020]**
+- **Authors** : Chuan-Ju Wang, Yu-Neng Chuang, Chih-Ming Chen, Ming-Feng Tsai
+- **Dataset** : Reddit, Wikipedia, LastFM, MOOC
+- **Task** : Recommendation (predicting future interactions and state change prediction)
+- [Code](https://github.com/cnclabs/codes.skewness.rec)
 
 #### [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://arxiv.org/pdf/1908.01207.pdf) **[KDD 2019]**
 - **Authors** : Srijan Kumar, Xikun Zhang, Jure Leskovec
-- **Dataset** : Reddit, Wikipedia, LastFM, MOOC
-- **Task** : Recommendation (predicting future interactions and state change prediction)
+- **Dataset** : CiteUlike Amazon-Book Last.fm-360K MovieLens-Latest Epinions-Extend
+- **Task** : Recommendation (Implicit)
 - [Code](https://github.com/srijankr/jodie)
 
 #### [Session-based Recommendation with Graph Neural Networks](https://arxiv.org/abs/1811.00855) **[AAAI 2019]**
@@ -54,6 +79,11 @@ Record some papers that I have read !
 - **Task** : Recommendation (Implicit)
 - [Code](https://github.com/huangtinglin/NGCF-PyTorch)
 
+#### [HOP-rec: high-order proximity for implicit recommendation](https://dl.acm.org/doi/pdf/10.1145/3240323.3240381) **[ResSys 2018]**
+- **Authors** : Jheng-Hong Yang, Chih-Ming Chen, Chuan-Ju Wang, Ming-Feng Tsai
+- **Dataset** : CiteUlike, MovieLens1Mb, MovieLens20Mb, AmazonBook
+- **Task** : Recommendation (Implicit)
+- 
 #### [Neural Collaborative Filtering](https://dl.acm.org/doi/10.1145/3038912.3052569) **[WWW 2017]**
 - **Authors** : Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu and Tat-Seng Chua
 - **Dataset** : MovieLens, Pinterest
